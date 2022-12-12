@@ -1,4 +1,4 @@
-# Debit_Credit_Python_BigData
+# Debit_Credit_BigData
 
 ## Master Degree Project
 
